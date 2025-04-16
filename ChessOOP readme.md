@@ -287,13 +287,7 @@ To highlight the uniqueness and learning scope of ChessOOP, here’s a compariso
 
 **Answer**: Each piece class (like `Pawn.java`, `Rook.java`) has its own `isValidMove()` method that checks whether a selected move follows chess rules. The game also prevents invalid moves using event-driven checks.
 
-### ❓ What challenges did you face?
 
-**Answer**: Implementing advanced features like move validation, managing state (e.g., turns, checkmate), and ensuring piece behaviors matched the rules of chess. GUI syncing and debugging were also significant challenges.
-
-### ❓ What can be improved in the future?
-
-**Answer**: Adding AI for single-player mode, multiplayer network support, saving/loading games, better GUI themes, and support for rule extensions like en passant and pawn promotion.
 
 ### ❓ How is this project better than simpler games like Tetris or Snake?
 
