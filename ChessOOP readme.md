@@ -228,21 +228,9 @@ This is the **core controller class** that manages the entire game experience.
 
 To highlight the uniqueness and learning scope of ChessOOP, here’s a comparison with another popular Java-based game project: **Tetris**.
 
-| Feature               | ChessOOP                         | Tetris                       |
-| --------------------- | -------------------------------- | ---------------------------- |
-| **Game Type**         | Strategy / Turn-Based            | Puzzle / Real-Time           |
-| **Player Control**    | 2-Player (Turn-by-Turn)          | Single Player (Continuous)   |
-| **Logic Complexity**  | High (Rules, Validation, AI)     | Moderate (Shape Fit & Score) |
-| **OOP Utilization**   | Very High (Piece Classes, MVC)   | Moderate (Game Loop, Blocks) |
-| **GUI Framework**     | Java Swing                       | Java Swing / JavaFX          |
-| **Replayability**     | Infinite Scenarios (Strategic)   | Pattern-Based Randomization  |
-| **Educational Value** | Excellent for OOP & Architecture | Great for Game Loop & Events |
-
-🧠 **Takeaway**: While Tetris tests your ability to manage real-time game states and event loops, ChessOOP challenges your architectural planning, rule enforcement, and design patterns.
-
 🎯 **Why ChessOOP is Harder to Build:**
 
-- Requires implementation of complex piece-specific movement logic (e.g., castling, check, checkmate).
+- Requires implementation of complex piece-specific movement logic (e.g., check, checkmate).
 - Demands strict rule validation and turn management.
 - Game state tracking is more advanced (e.g., win condition, move legality).
 - Involves more object-oriented planning and abstraction (inheritance, polymorphism).
@@ -251,9 +239,6 @@ To highlight the uniqueness and learning scope of ChessOOP, here’s a compariso
 
 ---
 
-## 📸 Gallery
-
-Take a visual tour of the ChessOOP game interface:
 
 
 
