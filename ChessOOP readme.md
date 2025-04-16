@@ -266,8 +266,6 @@ To highlight the uniqueness and learning scope of ChessOOP, here’s a compariso
 
 ## 🎓 Viva Questions & Answers
 
-Here are some commonly asked viva questions related to the ChessOOP project, along with suggested answers to help you confidently present during evaluations:
-
 ### ❓ What is the main objective of this project?
 
 **Answer**: To develop a fully functional two-player chess game using Java that demonstrates strong object-oriented programming principles like inheritance, encapsulation, and polymorphism along with GUI handling via Java Swing.
